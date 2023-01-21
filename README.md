@@ -1,2 +1,2 @@
-# Playground
-I am editing the README file. Adding some more details about the project description.	
+# About
+A small repository to hold and keep track of my Jupyter notebooks. 
